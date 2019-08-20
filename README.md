@@ -34,5 +34,5 @@ Step | Action
 ---- | -------------
 2-1  | Create a new file in your project. You create that file in Finder/File Explorer natively or you can create that file in the Atom Editor.
 2-2  | When you create a new file or update an existing one, it will listed in the ‘Git’ Tab in Atom as ‘Unstaged Change’.
-2-3 | Go to the ‘Git’ Tab in Atom and click on ‘Stage all’. The file that you just added is now listed in ‘Staged Changes’. Type some text in the text field  and click "Commit to Master".
+2-3 | Go to the ‘Git’ Tab in Atom and click on ‘Stage all’. The file that you just added is now listed in ‘Staged Changes’. Type some text in the text field and click "Commit to Master". You cannot click this button if the commit message is empty.
 2-4 | Click ‘publish’ to push the changes to GitHub.  
